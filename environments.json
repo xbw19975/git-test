@@ -39,6 +39,19 @@
             "uri": ""
           }
         ]
+      },
+      {
+        "name": "Default Environment",
+        "is_private": -1,
+        "env_var_list": {},
+        "env_id": "f6ef786bfa00a",
+        "server_list": [
+          {
+            "server_id": "1",
+            "name": "Default Server",
+            "uri": ""
+          }
+        ]
       }
     ],
     "currentEnv": {
