@@ -3,7 +3,7 @@
     "envList": [
       {
         "env_id": "1",
-        "name": "Default Servers",
+        "name": "Default Environment",
         "is_private": -1,
         "server_list": [
           {
@@ -28,7 +28,7 @@
         "env_var_list": {}
       },
       {
-        "name": "Default Servers1",
+        "name": "Default Environment",
         "is_private": -1,
         "env_var_list": {},
         "env_id": "93589a93fa000",
@@ -52,6 +52,19 @@
             "uri": ""
           }
         ]
+      },
+      {
+        "name": "Default Environment",
+        "is_private": -1,
+        "env_var_list": {},
+        "env_id": "110e81f1b6a000",
+        "server_list": [
+          {
+            "server_id": "1",
+            "name": "Default Server",
+            "uri": ""
+          }
+        ]
       }
     ],
     "currentEnv": {
@@ -67,7 +80,7 @@
       ],
       "env_var_list": {}
     },
-    "locationId": "9"
+    "locationId": "110e81f1b6a000"
   },
   "version": 0
 }
