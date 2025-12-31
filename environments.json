@@ -28,7 +28,7 @@
         "env_var_list": {}
       },
       {
-        "name": "Default Environment",
+        "name": "Default Servers1",
         "is_private": -1,
         "env_var_list": {},
         "env_id": "93589a93fa000",
