@@ -2,7 +2,7 @@
 	"x-target-id": "2ae080a4f03000",
 	"x-parent-id": "0",
 	"x-method": "get",
-	"x-url": "123",
+	"x-url": "remote_url",
 	"x-protocol": "http",
 	"x-mock-server-enable": 1,
 	"x-mark-id": "1",
