@@ -1,0 +1,28 @@
+[
+	{
+		"env_id": "1",
+		"name": "Default Environment33",
+		"is_private": -1,
+		"server_list": [
+			{
+				"server_id": "1",
+				"name": "Default Server",
+				"uri": ""
+			}
+		],
+		"env_var_list": {}
+	},
+	{
+		"env_id": "2",
+		"name": "Mock Environment",
+		"is_private": -1,
+		"server_list": [
+			{
+				"server_id": "1",
+				"name": "Default Server",
+				"uri": ""
+			}
+		],
+		"env_var_list": {}
+	}
+]
