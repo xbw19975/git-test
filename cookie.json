@@ -1,7 +1,7 @@
 {
 	"go.apipost.cn": [
 		{
-			"key": "55555",
+			"key": "22222",
 			"value": "gin",
 			"maxAge": 120,
 			"domain": "go.apipost.cn",
