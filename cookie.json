@@ -21,10 +21,23 @@
 			"path": "/",
 			"secure": true,
 			"httpOnly": true,
-			"creation": "2026-01-26T08:06:28.875Z",
+			"creation": "2026-03-09T12:46:42.691Z",
 			"name": "loseCookie",
 			"cookie_id": "2ec6e8d8b6a06a",
-			"expires": "Mon, 26 Jan 2026 08:06:29 GMT"
+			"expires": "Mon, 09 Mar 2026 12:46:42 GMT"
+		},
+		{
+			"key": "liveCookie",
+			"value": "gin",
+			"maxAge": 120,
+			"domain": "go.apipost.cn",
+			"path": "/",
+			"secure": true,
+			"httpOnly": true,
+			"creation": "2026-03-09T12:46:42.689Z",
+			"name": "liveCookie",
+			"cookie_id": "43930eb36a039",
+			"expires": "Mon, 09 Mar 2026 12:48:42 GMT"
 		}
 	]
 }

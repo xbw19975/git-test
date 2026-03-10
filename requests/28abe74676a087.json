@@ -1,14 +1,14 @@
 {
-	"x-target-id": "2557970276a000",
+	"x-target-id": "28abe74676a087",
 	"x-parent-id": "0",
 	"x-method": "get",
-	"x-url": "go.apipost.cn",
+	"x-url": "",
 	"x-protocol": "http",
 	"x-mock-server-enable": 1,
 	"x-mark-id": "1",
 	"x-updated-at": "2025-11-17T10:47:34+08:00",
 	"x-updated-user-name": "",
-	"x-in-trash": true,
+	"x-in-trash": false,
 	"x-sort": 2,
 	"x-scripts": {
 		"pre": [
@@ -191,5 +191,5 @@
 	},
 	"x-project-id": "0",
 	"x-is-changed": -1,
-	"x-deleted-at": 1773060732042
+	"x-created-at": 1773050853817
 }
