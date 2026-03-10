@@ -1,6 +1,6 @@
 {
 	"x-target-id": "b41f96b6a009",
-	"x-parent-id": "cee0fc36a009",
+	"x-parent-id": "237bf67a76a000",
 	"x-method": "get",
 	"x-url": "",
 	"x-protocol": "http",
@@ -31,7 +31,7 @@
 		]
 	},
 	"x-auth": {
-		"type": "inherit",
+		"type": "oauth2",
 		"kv": {
 			"key": "",
 			"value": "",
@@ -77,14 +77,14 @@
 			"addTokenTo": "header",
 			"headerPrefix": "Bearer",
 			"access_token": "",
-			"grant_type": "authorization_code",
+			"grant_type": "password_credentials",
 			"redirect_uri": "",
 			"authUrl": "",
-			"accessTokenUrl": "",
+			"accessTokenUrl": "https://github.com/login/oauth/access_token",
 			"clientId": "",
 			"clientSecret": "",
-			"username": "",
-			"password": "",
+			"username": "demo",
+			"password": "123455",
 			"challengeAlgorithm": "S256",
 			"code_verifier": "Bearer",
 			"scope": "",
@@ -153,7 +153,7 @@
 			"exp": ""
 		}
 	},
-	"summary": "接口000000",
+	"summary": "接口99999",
 	"description": "",
 	"tags": [],
 	"parameters": [],
