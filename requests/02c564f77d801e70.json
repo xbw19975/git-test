@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-	"name": "用户相关的接口3333",
-=======
 	"name": "用户相关的接口11",
->>>>>>> eadf08c21c314ee1c71b266e12f48c205bb2c51b
 	"x-target-id": "02c564f77d801e70",
 	"x-parent-id": "6152565b50801e0b",
 	"x-protocol": "folder",
@@ -158,11 +154,6 @@
 	},
 	"x-server-id": "0",
 	"x-scan-form": "Java",
-<<<<<<< HEAD
-	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java",
-	"x-is-changed": -1
-}
-=======
 	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java"
 }
->>>>>>> eadf08c21c314ee1c71b266e12f48c205bb2c51b
+
