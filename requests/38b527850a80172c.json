@@ -1,7 +1,7 @@
 {
 	"x-url": "/product/deleteById",
 	"x-method": "delete",
-	"summary": "删除商品",
+	"summary": "删除商品111",
 	"x-target-id": "38b527850a80172c",
 	"x-scan-form": "Java",
 	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java",
@@ -9,7 +9,7 @@
 	"x-mark-id": "1",
 	"x-updated-at": "",
 	"x-updated-user-name": "",
-	"x-sort": 0,
+	"x-sort": 8,
 	"x-scripts": {
 		"pre": [
 			{
@@ -236,5 +236,6 @@
 		}
 	},
 	"x-parent-id": "76bb694ecb001c7f",
-	"x-protocol": "http"
+	"x-protocol": "http",
+	"x-is-changed": -1
 }
