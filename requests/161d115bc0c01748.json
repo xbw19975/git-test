@@ -1,7 +1,7 @@
 {
 	"x-url": "user/deleteById/",
 	"x-method": "delete",
-	"summary": "通过 ID 删除用户",
+	"summary": "通过 ID 删除用户22222",
 	"x-target-id": "161d115bc0c01748",
 	"x-scan-form": "Java",
 	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java",
