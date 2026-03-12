@@ -1,7 +1,7 @@
 {
 	"x-url": "/product/uploadImage",
 	"x-method": "post",
-	"summary": "上传商品图片11111",
+	"summary": "上传商品图片2222",
 	"x-target-id": "11cf4cda378015ef",
 	"x-scan-form": "Java",
 	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java",
@@ -223,6 +223,5 @@
 		}
 	},
 	"x-parent-id": "76bb694ecb001c7f",
-	"x-protocol": "http",
-	"x-is-changed": -1
+	"x-protocol": "http"
 }
