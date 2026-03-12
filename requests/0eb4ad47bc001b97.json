@@ -1,7 +1,7 @@
 {
 	"x-url": "user/getById",
 	"x-method": "get",
-	"summary": "通过 ID 获取用户对象",
+	"summary": "通过 ID 获取用户对象11111",
 	"x-target-id": "0eb4ad47bc001b97",
 	"x-scan-form": "Java",
 	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java",
@@ -236,5 +236,6 @@
 		}
 	},
 	"x-parent-id": "02c564f77d801e70",
-	"x-protocol": "http"
+	"x-protocol": "http",
+	"x-is-changed": -1
 }
