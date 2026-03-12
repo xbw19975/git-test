@@ -1,15 +1,15 @@
 {
-	"x-target-id": "2ae080a4f03000",
-	"x-parent-id": "0",
-	"x-method": "get",
-	"x-url": "go.apipost.cn",
-	"x-protocol": "http",
+	"x-url": "/product/uploadImage",
+	"x-method": "post",
+	"summary": "上传商品图片",
+	"x-target-id": "11cf4cda378015ef",
+	"x-scan-form": "Java",
+	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java",
 	"x-mock-server-enable": 1,
 	"x-mark-id": "1",
-	"x-updated-at": "2025-11-17T10:47:34+08:00",
+	"x-updated-at": "",
 	"x-updated-user-name": "",
-	"x-in-trash": false,
-	"x-sort": 1,
+	"x-sort": 0,
 	"x-scripts": {
 		"pre": [
 			{
@@ -153,43 +153,75 @@
 			"exp": ""
 		}
 	},
-	"summary": "Unnamed API",
 	"description": "",
 	"tags": [],
 	"parameters": [],
 	"requestBody": {
-		"x-mode": "none",
+		"x-mode": "form-data",
 		"content": {
 			"none": {}
 		}
 	},
 	"responses": {
 		"200": {
-			"description": "Success",
 			"content": {
 				"application/json": {
-					"schema": {
-						"type": "object",
-						"properties": {}
+					"example": {
+						"serial_version_uid": 1,
+						"success": true,
+						"message": "",
+						"code": 1,
+						"result": null,
+						"timestamp": 1,
+						"onl_table": ""
 					},
-					"example": ""
-				}
-			}
-		},
-		"404": {
-			"description": "Failure",
-			"content": {
-				"application/json": {
 					"schema": {
+						"title": "Result",
 						"type": "object",
-						"properties": {}
-					},
-					"example": ""
+						"properties": {
+							"serial_version_uid": {
+								"type": "integer",
+								"example": 1,
+								"description": ""
+							},
+							"success": {
+								"type": "boolean",
+								"example": true,
+								"description": ""
+							},
+							"message": {
+								"type": "string",
+								"example": "",
+								"description": ""
+							},
+							"code": {
+								"type": "integer",
+								"example": 1,
+								"description": ""
+							},
+							"result": {
+								"type": "object",
+								"example": null,
+								"description": ""
+							},
+							"timestamp": {
+								"type": "integer",
+								"example": 1,
+								"description": ""
+							},
+							"onl_table": {
+								"type": "string",
+								"example": "",
+								"description": ""
+							}
+						},
+						"required": []
+					}
 				}
-			}
+			},
+			"description": "Success"
 		}
 	},
-	"x-project-id": "0",
-	"x-is-changed": -1,
-	"x-deleted-at": 1770625173778
+	"x-parent-id": "76bb694ecb001c7f",
+	"x-protocol": "http"
 }

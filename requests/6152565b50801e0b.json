@@ -1,35 +1,14 @@
 {
-	"x-target-id": "2ae080a4f03000",
+	"name": "com.apipost.controller",
+	"x-target-id": "6152565b50801e0b",
 	"x-parent-id": "0",
-	"x-method": "get",
-	"x-url": "go.apipost.cn",
-	"x-protocol": "http",
-	"x-mock-server-enable": 1,
-	"x-mark-id": "1",
-	"x-updated-at": "2025-11-17T10:47:34+08:00",
-	"x-updated-user-name": "",
+	"x-protocol": "folder",
+	"x-url": "",
+	"x-sort": 0,
 	"x-in-trash": false,
-	"x-sort": 1,
-	"x-scripts": {
-		"pre": [
-			{
-				"type": "customScript",
-				"enabled": 1,
-				"data": "",
-				"name": "Script",
-				"id": "0"
-			}
-		],
-		"post": [
-			{
-				"type": "customScript",
-				"enabled": 1,
-				"data": "",
-				"name": "Script",
-				"id": "0"
-			}
-		]
-	},
+	"description": "",
+	"x-tag-parameters": [],
+	"x-tag-requestBody": [],
 	"x-auth": {
 		"type": "inherit",
 		"kv": {
@@ -153,43 +132,27 @@
 			"exp": ""
 		}
 	},
-	"summary": "Unnamed API",
-	"description": "",
-	"tags": [],
-	"parameters": [],
-	"requestBody": {
-		"x-mode": "none",
-		"content": {
-			"none": {}
-		}
-	},
-	"responses": {
-		"200": {
-			"description": "Success",
-			"content": {
-				"application/json": {
-					"schema": {
-						"type": "object",
-						"properties": {}
-					},
-					"example": ""
-				}
+	"x-scripts": {
+		"pre": [
+			{
+				"type": "customScript",
+				"enabled": 1,
+				"data": "",
+				"name": "Script",
+				"id": "0"
 			}
-		},
-		"404": {
-			"description": "Failure",
-			"content": {
-				"application/json": {
-					"schema": {
-						"type": "object",
-						"properties": {}
-					},
-					"example": ""
-				}
+		],
+		"post": [
+			{
+				"type": "customScript",
+				"enabled": 1,
+				"data": "",
+				"name": "Script",
+				"id": "0"
 			}
-		}
+		]
 	},
-	"x-project-id": "0",
-	"x-is-changed": -1,
-	"x-deleted-at": 1770625173778
+	"x-server-id": "0",
+	"x-scan-form": "Java",
+	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java"
 }

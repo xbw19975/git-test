@@ -10,7 +10,13 @@
 				"uri": ""
 			}
 		],
-		"env_var_list": {}
+		"env_var_list": {
+			"key": {
+				"current_value": true,
+				"value": "",
+				"description": ""
+			}
+		}
 	},
 	{
 		"env_id": "2",

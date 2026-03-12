@@ -21,10 +21,10 @@
 			"path": "/",
 			"secure": true,
 			"httpOnly": true,
-			"creation": "2026-03-09T12:46:42.691Z",
+			"creation": "2026-03-11T10:19:43.727Z",
 			"name": "loseCookie",
 			"cookie_id": "2ec6e8d8b6a06a",
-			"expires": "Mon, 09 Mar 2026 12:46:42 GMT"
+			"expires": "Wed, 11 Mar 2026 10:19:43 GMT"
 		},
 		{
 			"key": "liveCookie",
@@ -34,10 +34,37 @@
 			"path": "/",
 			"secure": true,
 			"httpOnly": true,
-			"creation": "2026-03-09T12:46:42.689Z",
+			"creation": "2026-03-11T10:19:43.727Z",
 			"name": "liveCookie",
 			"cookie_id": "43930eb36a039",
-			"expires": "Mon, 09 Mar 2026 12:48:42 GMT"
+			"expires": "Wed, 11 Mar 2026 10:21:43 GMT"
+		},
+		{
+			"cookie_id": "2b4b436676a006",
+			"path": "/",
+			"key": "newCookie_4",
+			"value": "value",
+			"domain": "go.apipost.cn",
+			"expires": "Thu, 11 Mar 2027 11:00:46 GMT",
+			"maxAge": ""
+		},
+		{
+			"cookie_id": "2b4b44f2f6a007",
+			"path": "/",
+			"key": "newCookie_5",
+			"value": "value",
+			"domain": "go.apipost.cn",
+			"expires": "Thu, 11 Mar 2027 11:00:48 GMT",
+			"maxAge": ""
+		},
+		{
+			"cookie_id": "2b4b79d976a008",
+			"path": "/",
+			"key": "newCookie_6",
+			"value": "value",
+			"domain": "go.apipost.cn",
+			"expires": "Thu, 11 Mar 2027 11:01:42 GMT",
+			"maxAge": ""
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"x-target-id": "29d8e06bb6a006",
 	"x-parent-id": "0",
 	"x-method": "get",
-	"x-url": "",
+	"x-url": "go.apipost.cn",
 	"x-protocol": "http",
 	"x-mock-server-enable": 1,
 	"x-mark-id": "1",
@@ -158,9 +158,16 @@
 	"tags": [],
 	"parameters": [],
 	"requestBody": {
-		"x-mode": "none",
+		"x-mode": "application/json",
 		"content": {
-			"none": {}
+			"none": {},
+			"application/json": {
+				"schema": {
+					"type": "object",
+					"properties": {}
+				},
+				"example": "12312312"
+			}
 		}
 	},
 	"responses": {
