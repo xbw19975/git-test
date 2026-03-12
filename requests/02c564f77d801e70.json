@@ -1,5 +1,5 @@
 {
-	"name": "用户相关的接口",
+	"name": "用户相关的接口3333",
 	"x-target-id": "02c564f77d801e70",
 	"x-parent-id": "6152565b50801e0b",
 	"x-protocol": "folder",
@@ -154,5 +154,6 @@
 	},
 	"x-server-id": "0",
 	"x-scan-form": "Java",
-	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java"
+	"x-scan-path": "/Users/gala/Downloads/apipost-demo2/src/main/java/com/apipost/controller/UserController.java",
+	"x-is-changed": -1
 }
