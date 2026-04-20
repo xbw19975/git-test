@@ -2,7 +2,7 @@
 	"x-target-id": "28abe74676a087",
 	"x-parent-id": "0",
 	"x-method": "get",
-	"x-url": "",
+	"x-url": "go.apipost.cn",
 	"x-protocol": "http",
 	"x-mock-server-enable": 1,
 	"x-mark-id": "1",
@@ -153,14 +153,37 @@
 			"exp": ""
 		}
 	},
-	"summary": "Unnamed API",
+	"summary": "delete12",
 	"description": "",
 	"tags": [],
 	"parameters": [],
 	"requestBody": {
-		"x-mode": "none",
+		"x-mode": "form-data",
 		"content": {
-			"none": {}
+			"none": {},
+			"multipart/form-data": {
+				"schema": {
+					"type": "object",
+					"properties": {
+						"1": {
+							"type": "string",
+							"example": ""
+						},
+						"2": {
+							"type": "string",
+							"example": ""
+						}
+					},
+					"x-schema-orders": [
+						"1",
+						"2"
+					],
+					"required": [
+						"1",
+						"2"
+					]
+				}
+			}
 		}
 	},
 	"responses": {
