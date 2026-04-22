@@ -1,0 +1,158 @@
+{
+	"name": "com.apipost.controller",
+	"x-target-id": "6152565b50801e0b",
+	"x-parent-id": "0",
+	"x-protocol": "folder",
+	"x-url": "",
+	"x-sort": 0,
+	"x-in-trash": false,
+	"description": "",
+	"x-tag-parameters": [],
+	"x-tag-requestBody": [],
+	"x-auth": {
+		"type": "inherit",
+		"kv": {
+			"key": "",
+			"value": "",
+			"in": "header"
+		},
+		"bearer": {
+			"key": ""
+		},
+		"basic": {
+			"username": "",
+			"password": ""
+		},
+		"digest": {
+			"username": "",
+			"password": "",
+			"realm": "",
+			"nonce": "",
+			"algorithm": "MD5",
+			"qop": "",
+			"nc": "",
+			"cnonce": "",
+			"opaque": "",
+			"disableRetryRequest": false
+		},
+		"oauth1": {
+			"consumerKey": "",
+			"consumerSecret": "",
+			"signatureMethod": "HMAC-SHA1",
+			"addEmptyParamsToSign": true,
+			"includeBodyHash": true,
+			"addParamsToHeader": false,
+			"realm": "",
+			"version": "1.0",
+			"nonce": "",
+			"timestamp": "",
+			"verifier": "",
+			"callback": "",
+			"tokenSecret": "",
+			"token": "",
+			"disableHeaderEncoding": false
+		},
+		"oauth2": {
+			"addTokenTo": "header",
+			"headerPrefix": "Bearer",
+			"access_token": "",
+			"grant_type": "authorization_code",
+			"redirect_uri": "",
+			"authUrl": "",
+			"accessTokenUrl": "",
+			"clientId": "",
+			"clientSecret": "",
+			"username": "",
+			"password": "",
+			"challengeAlgorithm": "S256",
+			"code_verifier": "Bearer",
+			"scope": "",
+			"state": "",
+			"client_authentication": "header",
+			"refreshTokenUrl": "",
+			"authRequestParams": [],
+			"tokenRequestParams": [],
+			"refreshRequestParams": []
+		},
+		"hawk": {
+			"authId": "",
+			"authKey": "",
+			"algorithm": "",
+			"user": "",
+			"nonce": "",
+			"extraData": "",
+			"app": "",
+			"delegation": "",
+			"timestamp": "",
+			"includePayloadHash": false
+		},
+		"awsv4": {
+			"accessKey": "",
+			"secretKey": "",
+			"region": "",
+			"service": "",
+			"sessionToken": "",
+			"addAuthDataToQuery": false
+		},
+		"ntlm": {
+			"username": "",
+			"password": "",
+			"domain": "",
+			"workstation": "",
+			"disableRetryRequest": false
+		},
+		"edgegrid": {
+			"accessToken": "",
+			"clientToken": "",
+			"clientSecret": "",
+			"nonce": "",
+			"timestamp": "",
+			"baseURi": "",
+			"headersToSign": ""
+		},
+		"noauth": {},
+		"jwt": {
+			"addTokenTo": "header",
+			"algorithm": "HS256",
+			"secret": "",
+			"isSecretBase64Encoded": false,
+			"payload": "",
+			"headerPrefix": "Bearer",
+			"queryParamKey": "token",
+			"header": ""
+		},
+		"asap": {
+			"alg": "HS256",
+			"iss": "",
+			"aud": "",
+			"kid": "",
+			"privateKey": "",
+			"sub": "",
+			"claims": "",
+			"exp": ""
+		}
+	},
+	"x-scripts": {
+		"pre": [
+			{
+				"type": "customScript",
+				"enabled": 1,
+				"data": "",
+				"name": "Script",
+				"id": "0"
+			}
+		],
+		"post": [
+			{
+				"type": "customScript",
+				"enabled": 1,
+				"data": "",
+				"name": "Script",
+				"id": "0"
+			}
+		]
+	},
+	"x-server-id": "0",
+	"x-scan-form": "Java",
+	"x-scan-path": "/Users/gala/Desktop/apipost/offline-api-tool/src-tauri/target/debug/resources/example/src/main/java/com/apipost/controller/UserController.java"
+}
