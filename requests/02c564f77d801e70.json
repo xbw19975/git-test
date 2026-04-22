@@ -1,10 +1,10 @@
 {
-	"name": "用户相关接口",
+	"name": "用户相关接口1",
 	"x-target-id": "02c564f77d801e70",
 	"x-parent-id": "6152565b50801e0b",
 	"x-protocol": "folder",
 	"x-url": "",
-	"x-sort": 0,
+	"x-sort": 1,
 	"x-in-trash": false,
 	"description": "",
 	"x-tag-parameters": [],
@@ -154,5 +154,6 @@
 	},
 	"x-server-id": "0",
 	"x-scan-form": "Java",
-	"x-scan-path": "/Users/gala/Desktop/apipost/offline-api-tool/src-tauri/target/debug/resources/example/src/main/java/com/apipost/controller/UserController.java"
+	"x-scan-path": "/Users/gala/Desktop/apipost/offline-api-tool/src-tauri/target/debug/resources/example/src/main/java/com/apipost/controller/UserController.java",
+	"x-is-changed": -1
 }
