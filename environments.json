@@ -1,0 +1,86 @@
+{
+  "state": {
+    "envList": [
+      {
+        "env_id": "1",
+        "name": "Default serv123123123000",
+        "is_private": -1,
+        "server_list": [
+          {
+            "server_id": "1",
+            "name": "Default Server",
+            "uri": ""
+          }
+        ],
+        "env_var_list": {}
+      },
+      {
+        "env_id": "2",
+        "name": "Mock Environmen11t",
+        "is_private": -1,
+        "server_list": [
+          {
+            "server_id": "1",
+            "name": "Default Server",
+            "uri": ""
+          }
+        ],
+        "env_var_list": {}
+      },
+      {
+        "name": "Default Environment",
+        "is_private": -1,
+        "env_var_list": {},
+        "env_id": "93589a93fa000",
+        "server_list": [
+          {
+            "server_id": "1",
+            "name": "Default Server",
+            "uri": ""
+          }
+        ]
+      },
+      {
+        "name": "Default Environment",
+        "is_private": -1,
+        "env_var_list": {},
+        "env_id": "f6ef786bfa00a",
+        "server_list": [
+          {
+            "server_id": "1",
+            "name": "Default Server",
+            "uri": ""
+          }
+        ]
+      },
+      {
+        "name": "Default Environment",
+        "is_private": -1,
+        "env_var_list": {},
+        "env_id": "110e81f1b6a000",
+        "server_list": [
+          {
+            "server_id": "1",
+            "name": "Default Server",
+            "uri": ""
+          }
+        ]
+      }
+    ],
+    "currentEnv": {
+      "env_id": "2",
+      "name": "Mock Environment",
+      "is_private": -1,
+      "server_list": [
+        {
+          "server_id": "1",
+          "name": "Default Server",
+          "uri": ""
+        }
+      ],
+      "env_var_list": {}
+    },
+    "locationId": "110e81f1b6a000"
+  },
+  "version": 0
+}
